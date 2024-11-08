@@ -1,0 +1,12 @@
+[submodule "acrobot_ppo_a2c"]
+	path = acrobot_ppo_a2c
+	url = https://github.com/MertAtesmen/Acrobot-a2c-gymnasium.git
+[submodule "acrobot_dql"]
+	path = acrobot_dql
+	url = https://github.com/MertAtesmen/acrobot-gymnasium.git
+[submodule "car_racing_ppo"]
+	path = car_racing_ppo
+	url = https://github.com/MertAtesmen/deep-racing-gymnasium.git
+[submodule "car_racing_dql_a2c"]
+	path = car_racing_dql_a2c
+	url = https://github.com/MertAtesmen/car-racing-rl-gymnasium.git

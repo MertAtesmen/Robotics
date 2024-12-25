@@ -1,0 +1,35 @@
+ACROBOT:
+
+acrobot a2c:
+
+Time: 6383.16 +- 1386.04
+Reward: -187.60 +- 41.78
+
+acrobot dql
+
+Time: 18.66 +- 5.21
+Reward: -126.39 +- 33.91
+
+acrobot ppo
+
+Time: 3122.54 +-  1194.78
+Reward: -92.58 +- 35.72
+
+
+CAR Racing:
+
+car a2c:
+
+Time: 8446.39 +- 2199.61
+Reward: 270.99 +- 144.38
+
+car dql:
+
+Time: 9021.88 +- 268.94
+Reward: 253.12 +- 233.51
+
+car ppo:
+
+Time: 5523.32 +- 1027.23
+Reward:  847.00 +- 162.47
+

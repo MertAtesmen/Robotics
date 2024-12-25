@@ -1,0 +1,23 @@
+Car Train:
+
+python run.py  --model DQL --env Car --train
+python run.py  --model A2C --env Car --train
+python run.py  --model PPO --env Car --train
+
+Acrobot Train:
+
+python run.py  --model DQL --env Acrobot --train
+python run.py  --model A2C --env Acrobot --train
+python run.py  --model PPO --env Acrobot --train
+
+Car Test:
+
+python run.py  --model DQL --env Car --test --folder model/_car_dql 
+python run.py  --model A2C --env Car --test --folder model/_car_a2c
+python run.py  --model PPO --env Car --test --folder model/_car_ppo
+
+Acrobot Test:
+
+python run.py  --model DQL --env Acrobot --test --folder model/_car_dql 
+python run.py  --model A2C --env Acrobot --test --folder model/_car_a2c
+python run.py  --model PPO --env Acrobot --test --folder model/_car_ppo
